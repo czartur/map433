@@ -27,7 +27,7 @@
 
 > confidence intervals
 
-### (EN3) - PCA, Linear and Quadratic discriminant Analysis
+### (EN3) - PCA, Linear and Quadratic discriminant analysis
 > stratified K-fold
 
 > application: Breast Cancer
