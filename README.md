@@ -1,6 +1,6 @@
 # Statistics (MAP433) ~ École Polytechnique
 
-### This repository contains all of the homework done for this course
+### This repository contains all of the homework done by my group for this course
 ### Group components :
 > Artur César Araújo Alves
 
