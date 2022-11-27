@@ -10,7 +10,7 @@
 
 ## Repo Guide:
 ### (DM1) - Multiple linear regression
-> application: O3 concentration preciction
+> application: O3 concentration prediction
 
 ### (DM2) - Logistic regression
 > Newton-Raphson for approximating MLE [solving grad (ln) = 0]
