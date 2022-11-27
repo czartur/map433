@@ -1,9 +1,11 @@
 # Statistics (MAP433) ~ École Polytechnique
 
-### This repository contains all of the homework done by my group for the statistics course
+### This repository contains all of the homework done for this course
 ### Group components :
->> Artur César Araújo Alves 
+>> Artur César Araújo Alves
+
 >> João Pedro Tanaka Montalvao
+
 >> Rafael Ryoma Nagai Matsutane
 
 ## (DM1) - Multiple linear regression
