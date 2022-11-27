@@ -2,31 +2,32 @@
 
 ### This repository contains all of the homework done for this course
 ### Group components :
->> Artur César Araújo Alves
+> Artur César Araújo Alves
 
->> João Pedro Tanaka Montalvao
+> João Pedro Tanaka Montalvao
 
->> Rafael Ryoma Nagai Matsutane
+> Rafael Ryoma Nagai Matsutane
 
-## (DM1) - Multiple linear regression
+## Repo Guide:
+### (DM1) - Multiple linear regression
 > application: O3 concentration preciction
 
-## (DM2) - Logistic regression
+### (DM2) - Logistic regression
 > Newton-Raphson for approximating MLE [solving grad (ln) = 0]
 
 > application: Titanic accident (survived x deceased)
 
-## (EN1) - 1-factor linear regression
+### (EN1) - 1-factor linear regression
 > application: Ocean temperature measurement
 
 > Dataset: https://data.giss.nasa.gov/gistemp/
 
-## (EN2) - Variance stabilisation / Studentisation
+### (EN2) - Variance stabilisation / Studentisation
 > shapiro test
 
 > confidence intervals
 
-## (EN3) - PCA, Linear and Quadratic discriminant Analysis
+### (EN3) - PCA, Linear and Quadratic discriminant Analysis
 > stratified K-fold
 
 > application: Breast Cancer
